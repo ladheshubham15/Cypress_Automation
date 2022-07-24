@@ -56,5 +56,5 @@ Project Set-up:-
      cy.wait("@updateUserUiState");
  
  
- 
+ Note:- For readable format use edit file mode.
       
