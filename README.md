@@ -39,8 +39,10 @@ Project Set-up:-
     
     
  Execution:-
+  Download the cypress and keep any IDE Handy.
+  Get the files into the IDE and keep methods related files(tasks.js & assertions.js) into support folder and automation_test.cy.js in spec folder.
   For opening cypress runner use:- ./node_modules/.bin/cypress open
-  execute the file spec_files/automation_test.cy.js
+  execute the file automation_test.cy.js
   
   
  Challenges and Solutions:-
