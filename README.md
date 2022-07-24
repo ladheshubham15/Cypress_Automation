@@ -1,5 +1,5 @@
 # Cypress_Automation
-                                                Note:- For readable format please use edit file mode.
+                                  Note:- For readable format please use edit file mode.
 
 Tools stack used:- Cypress(version: 10.3.1) and Javascript.
 
