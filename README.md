@@ -1,4 +1,5 @@
 # Cypress_Automation
+                                                Note:- For readable format please use edit file mode.
 
 Tools stack used:- Cypress(version: 10.3.1) and Javascript.
 
@@ -56,5 +57,5 @@ Project Set-up:-
      cy.wait("@updateUserUiState");
  
  
- Note:- For readable format use edit file mode.
+
       
